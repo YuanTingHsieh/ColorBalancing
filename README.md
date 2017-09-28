@@ -6,6 +6,6 @@ This is the final project of Algorithms at National Taiwan University, 2015 Spri
 
 We implement exhausitive search, several version of greedy algorithms and genetic algorithm based on [this paper](https://link.springer.com/chapter/10.1007/11666806_20)
 
-The details and explanations of GA can be found [here]()
+The details and explanations of GA can be found [here](https://github.com/YuanTingHsieh/ColorBalancing/blob/master/final_project/Genetic_Algorithm.pdf)
 
 We won third prize of this problem
