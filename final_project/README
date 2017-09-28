@@ -1,0 +1,28 @@
+Synopsis   [This file is for 2015 CAD contest problem E]
+Author     [Yuan-Ting Hsieh, NTUEE]
+Author     [En-Yeu Fan, NTUEE]
+
+
+*For Compilation
+	Simply type 
+	> make clean
+	> make
+
+*For usage
+	Type
+   > ./DPT_balance_color test.in [specify output file and location]
+
+
+This folder includes five sub folders
+
+bin: 
+	a binary called DPT_balance_color for the contest
+
+input:
+	Some test cases for this problem.
+
+src:
+	Source code for this problem.
+
+
+*Node is Shape in cad 2015
